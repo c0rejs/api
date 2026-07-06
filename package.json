@@ -35,6 +35,6 @@
         "random-location": "^1.1.3"
     },
     "peerDependencies": {
-        "@corejslib/core": "^7.0.0"
+        "@corejslib/core": "^8.0.0"
     }
 }
