@@ -1,5 +1,13 @@
 # Changelog
 
+### v2.10.66 (2026-08-01)
+
+**Bug fixes:**
+
+- \[PATCH] fix: update package keywords (● [7c8e39d](https://github.com/corejslib/api/commit/7c8e39d); 👬 zdm)
+
+Compare with the previous release: [v2.10.65...v2.10.66](https://github.com/corejslib/api/compare/v2.10.65...v2.10.66)
+
 ### v2.10.65 (2026-07-06)
 
 **Other changes:**
